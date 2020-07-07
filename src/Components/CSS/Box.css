@@ -1,0 +1,11 @@
+Button {
+  display: inline-flex;
+  width: 100%;
+  font-size: 75px;
+  height: 16.2vh;
+  align-items: center;
+  padding-left: 42%;
+}
+.orange {
+  background: orange;
+}
